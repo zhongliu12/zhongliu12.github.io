@@ -7,19 +7,32 @@ order: 1
 
 ## Journal Publications
 
-1.  **Zhong Liu**, Jialin Zheng, and Xiaonan Lu, "Dissipation-Based Dynamics-Aware Learning Scheme for Transient Stability Analysis of Networked Black-Box Grid-Forming Inverters," in *IEEE Transactions on Power Electronics (TPEL)*, Early Access, September 2025.
-    [ [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175507) ] 
-
-2.  Jialin Zheng, **Zhong Liu**, and Xiaonan Lu, "Latent-Feature-Informed Neural ODE Modeling for Lightweight Stability Evaluation of Black-box Grid-Tied Inverters," in *IEEE Transactions on Power Electronics (TPEL)*, (Under Review).
-    [ [Link](https://arxiv.org/pdf/2510.09826) ] 
+<div style="text-align: justify;">
+<ol>
+  <li style="margin-bottom: 10px;">
+    <strong>Zhong Liu</strong>, Jialin Zheng, and Xiaonan Lu, "Dissipation-Based Dynamics-Aware Learning Scheme for Transient Stability Analysis of Networked Black-Box Grid-Forming Inverters," in <em>IEEE Transactions on Power Electronics (TPEL)</em>, Early Access, September 2025.
+    [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175507">Link</a> ] 
+  </li>
+  <li style="margin-bottom: 10px;">
+    Jialin Zheng, <strong>Zhong Liu</strong>, and Xiaonan Lu, "Latent-Feature-Informed Neural ODE Modeling for Lightweight Stability Evaluation of Black-box Grid-Tied Inverters," in <em>IEEE Transactions on Power Electronics (TPEL)</em>, (Under Review).
+    [ <a href="https://arxiv.org/pdf/2510.09826">Link</a> ] 
+  </li>
+</ol>
+</div>
 
 ---
 
 ## Conference Publications
 
-
-1.  **Zhong Liu**, Xiaonan Lu, Walter Leon-Salas, and Jin Tan, "Quantitative Trade-off in Distributed Secondary Control for Autonomous AC Microgrids," in *2024 IEEE Energy Conversion Congress and Exposition (ECCE)*, Phoenix, AZ, USA, October 2024, pp. 1112-1117.
-    [ [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10860753) ]
-
-2.  **Zhong Liu**, and Xiaonan Lu, "Quantifiable Trade-off between Voltage Regulation and Active Power Sharing in Autonomous DC Microgrids: A Data-Driven Approach," in *2024 IEEE Energy Conversion Congress and Exposition (ECCE)*, Phoenix, AZ, USA, October 2024, pp. 4280-4282.
-    [ [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10861112) ]
+<div style="text-align: justify;">
+<ol>
+  <li style="margin-bottom: 10px;">
+    <strong>Zhong Liu</strong>, Xiaonan Lu, Walter Leon-Salas, and Jin Tan, "Quantitative Trade-off in Distributed Secondary Control for Autonomous AC Microgrids," in <em>2024 IEEE Energy Conversion Congress and Exposition (ECCE)</em>, Phoenix, AZ, USA, October 2024, pp. 1112-1117.
+    [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10860753">Link</a> ]
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>Zhong Liu</strong>, and Xiaonan Lu, "Quantifiable Trade-off between Voltage Regulation and Active Power Sharing in Autonomous DC Microgrids: A Data-Driven Approach," in <em>2024 IEEE Energy Conversion Congress and Exposition (ECCE)</em>, Phoenix, AZ, USA, October 2024, pp. 4280-4282.
+    [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10861112">Link</a> ]
+  </li>
+</ol>
+</div>

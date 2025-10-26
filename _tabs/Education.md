@@ -1,8 +1,8 @@
----
+<!-- ---
 icon: fas fa-user-graduate
 order: 2
----
-<div style="display: flex; align-items: center; justify-content: space-between;">
+--- -->
+<!-- <div style="display: flex; align-items: center; justify-content: space-between;">
   <h2 style="margin-top: 0; margin-bottom: 0;">Purdue University, West Lafayette, IN</h2>
   <img src="/assets/img/purdue_logo.png" alt="Purdue Logo" style="height: 60px; max-width: 150px;">
 </div>
@@ -31,4 +31,4 @@ order: 2
 </div>
 <p>
   <strong>B.Eng. in Electrical Engineering and Automation</strong>, <em>Sep 2016 – Jun 2020</em>
-</p>
+</p> -->
