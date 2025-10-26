@@ -23,15 +23,12 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://zhongliu12.github.io/"
-
-github:
-  username: zhongliu12 # change to your GitHub username
+url:
 
 # twitter:
 #   username: twitter_username # change to your Twitter username
-linkedin:
-  username: zhongliu
+# linkedin:
+#   username: zhongliu
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
