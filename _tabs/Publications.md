@@ -5,7 +5,7 @@ icon: fas fa-book-open  # 这是一个“打开的书”的图标，很适合出
 order: 1
 ---
 
-## Journal Publications
+<!-- ## Journal Publications
 
 1.  Author A, **Zhong Liu**, and Author B, "Your First Journal Paper Title," in *IEEE Transactions on Power Electronics (TPEL)*, vol. XX, no. XX, pp. XXXX-XXXX, Month 20XX.
     [ [PDF](这里放PDF链接) ] [ [Code](这里放GitHub代码链接) ] 
@@ -21,4 +21,4 @@ order: 1
     [ [PDF](...) ] [ [Slides](这里放slides链接) ] 
 
 2.  **Zhong Liu**, Author G, and Author H, "Your Second Conference Paper Title," in *Proc. IEEE Applied Power Electronics Conference (APEC)*, City, State, USA, Month 20XX, pp. XXXX-XXXX.
-    [ [PDF](...) ]
+    [ [PDF](...) ] -->
