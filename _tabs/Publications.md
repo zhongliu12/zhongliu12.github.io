@@ -5,20 +5,18 @@ icon: fas fa-book-open  # 这是一个“打开的书”的图标，很适合出
 order: 1
 ---
 
-<!-- ## Journal Publications
+## Journal Publications
 
-1.  Author A, **Zhong Liu**, and Author B, "Your First Journal Paper Title," in *IEEE Transactions on Power Electronics (TPEL)*, vol. XX, no. XX, pp. XXXX-XXXX, Month 20XX.
-    [ [PDF](这里放PDF链接) ] [ [Code](这里放GitHub代码链接) ] 
-
-2.  **Zhong Liu**, Author C, and Author D, "Your Second Journal Paper Title," in *IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)*, vol. XX, pp. XXXX-XXXX, Month 20XX.
-    [ [PDF](...) ] 
+1.  **Zhong Liu**, Jialin Zheng, and Xiaonan Lu, "Dissipation-Based Dynamics-Aware Learning Scheme for Transient Stability Analysis of Networked Black-Box Grid-Forming Inverters," in *IEEE Transactions on Power Electronics (TPEL)*, Early Access, September 2025.
+    [ [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175507) ] 
 
 ---
 
 ## Conference Publications
 
-1.  Author E, Author F, and **Zhong Liu**, "Your First Conference Paper Title," in *Proc. IEEE Energy Conversion Congress and Exposition (ECCE)*, City, State, USA, Month 20XX, pp. XXXX-XXXX.
-    [ [PDF](...) ] [ [Slides](这里放slides链接) ] 
 
-2.  **Zhong Liu**, Author G, and Author H, "Your Second Conference Paper Title," in *Proc. IEEE Applied Power Electronics Conference (APEC)*, City, State, USA, Month 20XX, pp. XXXX-XXXX.
-    [ [PDF](...) ] -->
+1.  **Zhong Liu**, Xiaonan Lu, Walter Leon-Salas, and Jin Tan, "Quantitative Trade-off in Distributed Secondary Control for Autonomous AC Microgrids," in *2024 IEEE Energy Conversion Congress and Exposition (ECCE)*, Phoenix, AZ, USA, October 2024, pp. 1112-1117.
+    [ [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10860753) ]
+
+2.  **Zhong Liu**, and Xiaonan Lu, "Quantifiable Trade-off between Voltage Regulation and Active Power Sharing in Autonomous DC Microgrids: A Data-Driven Approach," in *2024 IEEE Energy Conversion Congress and Exposition (ECCE)*, Phoenix, AZ, USA, October 2024, pp. 4280-4282.
+    [ [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10861112) ]
