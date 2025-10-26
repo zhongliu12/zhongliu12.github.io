@@ -1,22 +1,21 @@
 ---
-icon: fas fa-tags
+icon: fas fa-user-graduate
 order: 2
 ---
-## Ph.D. in Electrical and Computer Engineering
-**Purdue University**, West Lafayette, IN
-*Aug 2023 – Present*
+### Purdue University, West Lafayette, IN
+**Ph.D. in Electrical and Computer Engineering**  *Aug 2023 – Present*
 
-* **Topic:** Feature-preserved large and small signal analysis 
-* **Advisor:** Dr. Xiaonan Lu & Dr. Junjie Qin
+
+* **Advisor:** [Dr. Xiaonan Lu](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=293442) (TPEL Co-EIC) & [Dr. Junjie Qin](https://engineering.purdue.edu/people/junjie.qin.1)
 
 ---
 
-## M.S. in Electrical and Computer Engineering 
-**University of Michigan**, Ann Arbor, MI
+## University of Michigan, Ann Arbor, MI 
+**M.S. in Electrical and Computer Engineering**
 *Aug 2021 – May 2023*
 
 ---
 
-## B.S. in Electrical Engineering and Automation
-**Changsha University of Science and Technology**, Changsha, China
+## Changsha University of Science and Technology, Changsha, China
+**B.S. in Electrical Engineering and Automation**
 *Sep 2016 – Jun 2020*
