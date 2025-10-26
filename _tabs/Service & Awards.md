@@ -9,6 +9,8 @@ order: 4
 
 * **ECCE 2025 Best Reviewer**
 * **Purdue PGSG Travel Grant**
+* **First-Class Scholarship of CSUST**  
+* **Third Prize, "Challenge Cup" National College Student Business Plan Competition**
 
 ---
 
