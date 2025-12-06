@@ -14,8 +14,8 @@ order: 1
     [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175507">Link</a> ] 
   </li>
   <li style="margin-bottom: 10px;">
-    Jialin Zheng, <strong>Zhong Liu</strong>, and Xiaonan Lu, "Latent-Feature-Informed Neural ODE Modeling for Lightweight Stability Evaluation of Black-box Grid-Tied Inverters," in <em>IEEE Transactions on Power Electronics (TPEL)</em>, (Under Review).
-    [ <a href="https://arxiv.org/pdf/2510.09826">Link</a> ] 
+    Jialin Zheng, <strong>Zhong Liu</strong>, and Xiaonan Lu, "Latent-Feature-Informed Neural ODE Modeling for Lightweight Stability Evaluation of Black-box Grid-Tied Inverters," in <em>IEEE Transactions on Power Electronics (TPEL)</em>, Early Access, November 2025.
+    [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11236997">Link</a> ] 
   </li>
 </ol>
 </div>
@@ -26,6 +26,14 @@ order: 1
 
 <div style="text-align: justify;">
 <ol>
+    <li style="margin-bottom: 10px;">
+    <strong>Zhong Liu</strong>, Jialin Zheng, and Xiaonan Lu, "Neural Lyapunov Based Transient Stability Analysis of Networked Grid-Forming Inverters with Unknown Internal Dynamics," in <em>2025 IEEE Energy Conversion Congress and Exposition (ECCE)</em>, Philadelphia, PA, USA, October 2025, pp. 1-6.
+    [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11259834">Link</a> ]
+  </li>
+    <li style="margin-bottom: 10px;">
+    Jialin Zheng, <strong>Zhong Liu</strong>, and Xiaonan Lu, "Stability Evaluation of Black-Box Grid-Forming Inverters via Physical-Informed Neural Ordinary Differential Equations," in <em>2025 IEEE Energy Conversion Congress and Exposition (ECCE)</em>, Philadelphia, PA, USA, October 2025, pp. 1-5.
+    [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11260414">Link</a> ]
+  </li>
   <li style="margin-bottom: 10px;">
     <strong>Zhong Liu</strong>, Xiaonan Lu, Walter Leon-Salas, and Jin Tan, "Quantitative Trade-off in Distributed Secondary Control for Autonomous AC Microgrids," in <em>2024 IEEE Energy Conversion Congress and Exposition (ECCE)</em>, Phoenix, AZ, USA, October 2024, pp. 1112-1117.
     [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10860753">Link</a> ]
