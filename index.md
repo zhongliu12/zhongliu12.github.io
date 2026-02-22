@@ -39,3 +39,6 @@ I am Zhong Liu (刘众), a Ph.D. student in the Elmore Family School of Electric
 <p>
   <strong>B.Eng. in Electrical Engineering and Automation</strong>, <em>Sep 2016 – Jun 2020</em>
 </p>
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=tt&d=N1xcGfMiyGqEOR9TZz2PRIL6pBhRmMh98RoCJonFmW4&cmo=8598f7&co=3a75e2&cmn=61ff61'></script>
+</div>
