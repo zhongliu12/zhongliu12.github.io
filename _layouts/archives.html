@@ -1,0 +1,30 @@
+---
+layout: page
+# The Archives of posts.
+# Local override of the theme layout: show a single American-style mm/dd date
+# instead of the theme's split "day + month-abbreviation".
+---
+
+{% include lang.html %}
+
+<div id="archives" class="pl-xl-3">
+  {% for post in site.posts %}
+    {% assign cur_year = post.date | date: '%Y' %}
+
+    {% if cur_year != last_year %}
+      {% unless forloop.first %}</ul>{% endunless %}
+
+      <time class="year lead d-block">{{ cur_year }}</time>
+      {{ '<ul class="list-unstyled">' }}
+
+      {% assign last_year = cur_year %}
+    {% endif %}
+
+    <li>
+      <span class="date">{{ post.date | date: '%m/%d' }}</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+
+    {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
+</div>

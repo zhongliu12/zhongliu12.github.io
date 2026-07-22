@@ -4,7 +4,7 @@ layout: page
 icon: fas fa-book-open  # 这是一个“打开的书”的图标，很适合出版物
 order: 1
 ---
-
+**Please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=ntnEL5QAAAAJ&hl=en&authuser=2&oi=ao) for the most updated publication list.**
 ## Journal Publications
 
 <div style="text-align: justify;">
@@ -14,9 +14,17 @@ order: 1
     [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175507">Link</a> ] 
   </li>
   <li style="margin-bottom: 10px;">
+  <strong>Zhong Liu</strong>, Jialin Zheng, and Xiaonan Lu, "Lipschitz-Enforced Machine Learning Framework for Accelerating Transient Stability Analysis of Networked Grid-Connected Inverters," in <em>IEEE Transactions on Power Electronics (TPEL)</em>, Under Review.
+  [ <a href="https://arxiv.org/pdf/2606.00883">Link</a> ]
+</li>
+  <li style="margin-bottom: 10px;">
     Jialin Zheng, <strong>Zhong Liu</strong>, and Xiaonan Lu, "Latent-Feature-Informed Neural ODE Modeling for Lightweight Stability Evaluation of Black-box Grid-Tied Inverters," in <em>IEEE Transactions on Power Electronics (TPEL)</em>, Early Access, November 2025.
     [ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11236997">Link</a> ] 
   </li>
+  <li style="margin-bottom: 10px;">
+  Jialin Zheng, Ruhaan Batta, <strong>Zhong Liu</strong>, and Xiaonan Lu, "Discovering Unknown Inverter Governing Equations via Physics-Informed Sparse Machine Learning," in <em>IEEE Transactions on Power Electronics (TPEL)</em>, Early Access, July 2026, pp. 1-15.
+  [ <a href="https://ieeexplore.ieee.org/abstract/document/11592694">Link</a> ]
+</li>
 </ol>
 </div>
 

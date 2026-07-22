@@ -4,7 +4,7 @@ layout: page
 ---
 ## Welcome!
 <p style="text-align: justify;">
-I am Zhong Liu (刘众), a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. My research is centered on ensuring the stability of modern power grids, with a specific focus on the modeling and transient stability analysis of grid-forming inverters. I am particularly interested in leveraging machine learning and data-driven approaches to tackle complex stability challenges in power electronic systems.
+I am Zhong Liu (刘众), a Ph.D. candidate in the Elmore Family School of Electrical and Computer Engineering at Purdue University. My research is centered on ensuring the stability of modern power grids, with a specific focus on the modeling and transient stability analysis of grid-forming inverters. I am particularly interested in leveraging machine learning and data-driven approaches to tackle complex stability challenges in power electronic systems.
 </p>
 ---
 ## Education

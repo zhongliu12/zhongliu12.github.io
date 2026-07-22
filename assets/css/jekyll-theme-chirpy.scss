@@ -1,0 +1,151 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* ================================================================
+   SIDEBAR
+   ================================================================ */
+
+/* Make the sidebar a flex column (the theme already relies on this) so we can
+   reorder its children below. */
+#sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+/* --- Avatar: larger + square with small rounded corners ---
+   The theme's rule is `#sidebar #avatar` (two IDs), so we match that specificity.
+   `max-width: 100%` + `aspect-ratio` keeps it square and prevents it from
+   overflowing the sidebar on narrower screens even at a large `width`. */
+#sidebar #avatar {
+  width: 20rem; /* your chosen size; it will shrink to fit narrow sidebars */
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  border-radius: 12px !important; /* small rounded corners; use 0 for a sharp square */
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* fill the square without distorting the photo */
+  }
+}
+
+/* --- Reduce the left whitespace ---
+   Left padding was 2.5rem (vs 1.25rem on the right), which pushed everything
+   right and left a big gap. Make it a smaller, symmetric inset.
+   <tune> change 1.25rem to taste. */
+#sidebar .profile-wrapper {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+#sidebar ul li.nav-item {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+#sidebar .sidebar-bottom {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+/* --- Move the social icons up (right under the tagline) ---
+   #sidebar is a flex column; reorder its three children. */
+#sidebar .profile-wrapper {
+  order: 0;
+  margin-bottom: 0.9rem; /* <tune> THE gap between the tagline and the icons */
+}
+/* The theme reserves a fixed 3rem tall block for the one-line tagline, which is
+   most of the empty gap. Let it size to its text instead. */
+#sidebar .site-subtitle {
+  height: auto;
+}
+#sidebar .sidebar-bottom {
+  order: 1;
+  margin-top: 0; /* gap ABOVE icons (to tagline) is set by .profile-wrapper margin-bottom */
+  margin-bottom: 0.1rem; /* <tune> THE gap between the icons and the nav (HOME, ...) */
+  justify-content: flex-start; /* keep icons left-aligned */
+}
+#sidebar nav {
+  order: 2;
+}
+
+/* --- Enlarge the social icons --- <tune> the two sizes below */
+#sidebar .sidebar-bottom > a,
+#sidebar .sidebar-bottom #mode-toggle {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+#sidebar .sidebar-bottom i {
+  font-size: 1.25rem;
+  line-height: 2.5rem;
+}
+
+/* ================================================================
+   NEWS (archives): wrap long titles, aligned, with dots on the line
+   ================================================================ */
+
+#archives ul li {
+  white-space: normal; /* was nowrap (ellipsis) → allow wrapping */
+  overflow: visible;
+  position: relative; /* positioning context for date, dot and timeline */
+  line-height: 1.5rem; /* tighter spacing between the two wrapped lines */
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem; /* keeps a single-line row ≈ 3rem tall, as before */
+  padding-left: 6rem; /* <tune> the title column = gap between the dot/line and the title text */
+}
+
+/* Date (single mm/dd span from the local archives.html override): lift out of the
+   flow into the left gutter. */
+#archives ul li .date {
+  position: absolute;
+  top: 0.75rem; /* <tune> vertical align with the title's first line */
+  left: 0.75rem; /* <tune> horizontal position of the date in the gutter */
+  right: auto; /* cancel the theme's right: 0.5rem */
+  font-size: 1.1rem; /* <tune> date size */
+}
+
+/* Title link: the left padding above provides the column, so drop the margin */
+#archives ul li a {
+  margin-left: 0;
+}
+
+/* Timeline vertical line: stretch to the full (possibly two-line) row height so
+   it stays continuous; keep it at the theme's x = 77px */
+#archives ul li::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: auto;
+  left: 77px;
+}
+
+/* Replace the theme's floated dot (which sits off the line) with an absolutely
+   positioned one that shares the line's coordinate system, so it is always
+   centered on the timeline. */
+#archives ul li a::before {
+  display: none;
+}
+#archives ul li::after {
+  content: '';
+  position: absolute;
+  left: 75px; /* centers the 8px dot on the 4px line at x = 77px */
+  top: 1.15rem; /* <tune> vertical center on the first line */
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--timeline-node-bg);
+  box-shadow: 0 0 3px 0 #c2c6cc;
+  z-index: 1;
+}

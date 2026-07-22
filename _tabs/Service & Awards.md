@@ -6,10 +6,10 @@ order: 4
 ---
 
 ## Awards
-
+* **IEEE Central Indiana Outstanding Student Award**
 * **ECCE 2025 Best Reviewer**
 * **Purdue PGSG Travel Grant**
-* **First-Class Scholarship of CSUST**  
+* **First-Class Scholarship of CSUST**
 * **Third Prize, "Challenge Cup" National College Student Business Plan Competition**
 
 ---
@@ -18,9 +18,11 @@ order: 4
 
 ### Journal Reviewer
 * *IEEE Transactions on Power Electronics (TPEL)*
+* *IEEE Transactions on Industrial Electronics (TIE)*
 * *IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)*
 * *IEEE Transactions on Industry Applications (TIA)*
 * *IEEE Open Journal of Industry Applications (OJIA)*
+* *Journal of Modern Power Systems and Clean Energy (JMPSCE)*
 
 ### Conference Reviewer
 * *IEEE Energy Conversion Congress and Exposition (ECCE)*, 2025
